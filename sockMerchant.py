@@ -1,5 +1,4 @@
 def sockMerchant(n, ar):
-    maxpairs = n // 2
     count = 0
     pairs = {}
     for i in ar:
